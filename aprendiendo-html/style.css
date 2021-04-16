@@ -1,0 +1,37 @@
+.encabezado {
+    color: blue !important;
+    background-color: chartreuse;
+    text-decoration: underline;
+    text-align: left;
+}
+
+h1 {
+    color: green;
+    text-decoration: underline;
+    text-decoration: ivory;
+    text-align: center;
+}
+
+#identificador {
+    color: rgb(130, 42, 165);
+    color: honeydew;
+    font-size: 200%;
+}
+
+.sección1 {
+    background-color: chocolate;
+    color: cyan;
+    text-decoration: underline;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.sección2 {
+    background-color: lightblue;
+    color: mediumaquamarine;
+    text-decoration: underline;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
